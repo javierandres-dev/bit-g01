@@ -1,8 +1,6 @@
 # :octocat: bit-course-full_stack_01/01
 - - -
 ## Clase en vivo 2022/02/28
-* [Grabación]()
-* [Esquema](https://docs.google.com/drawings/d/1hQNjiLAQYebRAftJwu6foGW_-uXLaXGHg72Go6GRhTM/edit?usp=sharing)
 ### Términos y conceptos
 * [x] Importancia del idioma inglés
 * [x] Internet
