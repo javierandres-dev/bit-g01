@@ -1,0 +1,27 @@
+/* esto es un comentario en CSS */
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.navbar {
+  width: 400px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+}
+main {
+  background-color: yellow;
+  width: 900px;
+  float: left;
+}
+.aside {
+  background-color: yellowgreen;
+  width: 300px;
+  float: right;
+}
+.footer {
+  background-color: blue;
+}
+.clearfix {
+  clear: both;
+}

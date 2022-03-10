@@ -1,0 +1,13 @@
+/* selectores */
+* {
+  color: red;
+}
+div {
+  color: blue;
+}
+.ejemplo-de-clase {
+  color: green;
+}
+#ejemplo-de-id {
+  color: purple;
+}
