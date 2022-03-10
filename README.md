@@ -8,6 +8,7 @@ Fecha finalización: 2022/06/10
 ### Directorios
 * :open_file_folder: /01 - Clase 2022/02/28
 * :open_file_folder: /02 - Clase 2022/03/03
+* :open_file_folder: /03 - Clase 2022/03/08
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandres.dev)
