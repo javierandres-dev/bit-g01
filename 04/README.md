@@ -10,8 +10,8 @@
 * [x] Crear una página web (temática libre) con estilos, íconos e imágenes.
 * [x] Tener GitHub actualizado con todas las prácticas al día.
 ### Recursos
-* [referencia html](https://htmlreference.io/)
-* [referencia css](https://cssreference.io/)
+* [html](https://htmlreference.io/)
+* [css](https://cssreference.io/)
 * [íconos](https://fontawesome.com/)
 * [imágenes](https://unsplash.com/)
 - - -
