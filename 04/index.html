@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="es">
   <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fredoka&family=Roboto&display=swap"
+      rel="stylesheet"
+    />
     <script
       src="https://kit.fontawesome.com/b6055e77dc.js"
       crossorigin="anonymous"
@@ -9,22 +15,26 @@
     <title>Gatos</title>
   </head>
   <body>
-    <header class="header">
+    <header class="header" id="header">
       <h1>Gatos</h1>
       <div>
         <i class="fa-solid fa-bars"></i>
         <nav class="navbar">
-          <a href="#">Inicio</a><a href="#">Productos</a
-          ><a href="#">Servicios</a><a href="#">Nosotros</a
-          ><a href="#">Contacto</a>
+          <a href="#header">Inicio</a>
+          <a href="#products">Productos</a>
+          <a href="#services">Servicios</a>
+          <a href="#we">Nosotros</a>
+          <a href="#contact">Contacto</a>
         </nav>
       </div>
     </header>
     <main role="main" class="container">
-      <figure class="hero">
-        <img src="./img/hero.jpg" alt="gatos" />
-      </figure>
-      <section class="products">
+      <section class="hero">
+        <figure>
+          <img src="./img/hero.jpg" alt="gatos" />
+        </figure>
+      </section>
+      <section class="products" id="products">
         <h2>Productos</h2>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi
@@ -38,6 +48,46 @@
           <li><i class="fa-solid fa-paw"></i> Aseo</li>
         </ul>
       </section>
+      <section class="services" id="services">
+        <h2>Servicios</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam ex
+          ipsam voluptate incidunt! Molestiae odio soluta laboriosam dolores
+          perferendis, eos modi laborum fugiat voluptates praesentium suscipit
+          saepe sequi! Atque, consequatur.
+        </p>
+        <ol class="services-list">
+          <li>Vacunación</li>
+          <li>Guardería</li>
+          <li>Peluquería</li>
+        </ol>
+      </section>
+      <section class="we" id="we">
+        <h2>Nosotros</h2>
+        <figure>
+          <img src="./img/we.jpg" alt="we" />
+        </figure>
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Neque, quia!
+          Nobis voluptatem magnam perferendis facilis quo perspiciatis unde
+          consequatur dignissimos a? Id quo harum pariatur cumque tempore
+          repellendus molestias commodi!
+        </p>
+      </section>
+      <section class="contact" id="contact">
+        <h2>Contacto</h2>
+        <div>
+          <figure>
+            <img src="./img/contact.jpg" alt="contact" />
+          </figure>
+          <address>
+            Km 1 vía Villa Nueva.
+            <br />
+            +57 555 123 4567
+          </address>
+        </div>
+      </section>
     </main>
+    <footer class="footer"><small>&copy; 2022</small></footer>
   </body>
 </html>

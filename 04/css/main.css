@@ -1,10 +1,12 @@
+/* BASE */
 * {
   margin: 0;
 }
 body {
-  font-family: sans-serif;
   line-height: 1.5;
   font-size: 16px;
+  color: #38113d;
+  font-family: 'Roboto', sans-serif;
 }
 img {
   width: 100%;
@@ -13,41 +15,88 @@ img {
 ul {
   list-style: none;
 }
-section {
-  padding: 32px;
-}
 h2 {
-  font-family: serif;
   text-align: center;
   margin-bottom: 32px;
+  color: #932da1;
+  font-family: 'Fredoka', sans-serif;
 }
 a {
   text-decoration: none;
 }
+/* GLOBAL */
+.container {
+  width: 100%;
+}
+/* HEADER */
 .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 16px;
 }
+/* MENU */
 .navbar {
-  /*
-  display: flex;
-  flex-direction: column;
-  */
   display: none;
 }
-.container {
-  width: 100%;
-}
+/* SECTIONS */
 .hero figure {
   width: 100%;
 }
-.products {
+.products,
+.services,
+.we p,
+.contact {
+  padding: 32px;
+}
+.products-list,
+.services-list {
+  margin-top: 32px;
 }
 .fa-paw {
   color: gray;
+  font-size: 32px;
+  margin-right: 32px;
 }
-.products-list {
-  margin-top: 16px;
+.services-list {
+  margin-left: 32px;
+}
+.contact,
+.footer {
+  text-align: center;
+}
+/* MEDIA QUERIES */
+@media screen and (min-width: 768px) {
+  /* GLOBAL */
+  .container {
+    width: 720px;
+    margin: auto;
+  }
+  /* MENU */
+  .navbar {
+    display: flex;
+  }
+  .fa-bars {
+    display: none;
+  }
+  .navbar a {
+    margin-right: 16px;
+  }
+  /* CONTACT */
+  .contact div {
+    display: flex;
+    justify-content: center;
+  }
+  .contact figure {
+    width: 300px;
+  }
+  .contact address {
+    margin-left: 32px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  /* GLOBAL */
+  .container {
+    width: 960px;
+  }
 }
