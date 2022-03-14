@@ -7,8 +7,8 @@
 * [x] Repaso Html
 * [x] Repaso Css
 ### Prácticas
-* [x] Crear una página web (temática libre) con estilos, íconos e imágenes.
-* [x] Tener GitHub actualizado con todas las prácticas al día.
+* [x] Crear un directorio dentro del repositorio de GitHub con el nombre "03", 
+dentro crear una página web (temática libre) con estilos, íconos e imágenes.
 ### Recursos
 * [html](https://htmlreference.io/)
 * [css](https://cssreference.io/)
