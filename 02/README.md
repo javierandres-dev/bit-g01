@@ -23,8 +23,8 @@
 * [x] Elementos por tipo de contenido
 * [x] Elementos utilitarios
 ### Prácticas
-* [x] Crear un directorio dentro del repositorio de GitHub con el nombre "01" y
-dentro crear una página web, temática libre, solo HTML
+* [x] Crear un directorio dentro del repositorio de GitHub con el nombre "01" 
+y dentro crear una página web, temática libre, solo HTML.
 ### Recursos
 * [World Wide Web Consortium W3C](https://www.w3.org/)
 * [W3C HTML5 reference](https://dev.w3.org/html5/html-author/)

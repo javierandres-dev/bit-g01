@@ -23,7 +23,7 @@
 ### Prácticas
 * [x] Crear un directorio dentro del repositorio de GitHub con el nombre "02", 
 dentro crear una página web con estilos, temática libre, deben ser 2 archivos 
-uno HTML y otro CSS
+uno HTML y otro CSS.
 ### Recursos
 * [W3C CSS](https://www.w3.org/Style/CSS/)
 - - -
