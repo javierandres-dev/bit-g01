@@ -1,0 +1,22 @@
+body {
+  background-color: #ddd;
+  text-align: center;
+}
+
+p {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+button {
+  padding: 16px 32px;
+  font-size: 32px;
+}
+
+.blue {
+  color: blue;
+}
+
+.red {
+  color: red;
+}
