@@ -17,7 +17,7 @@
 * [x] DOM eventos
 * [x] Manipulación del DOM
 ### Prácticas
-* [x] Replicar el ejercicio del contador, cambiar estilos
+* [x] Replicar el ejercicio del contador, cambiar estilos.
 ### Recursos
 * [JavaScript - mdn web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - - -
