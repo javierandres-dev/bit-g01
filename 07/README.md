@@ -2,6 +2,7 @@
 - - -
 ## Clase 2022/03/22
 ### Términos y conceptos
+* [x] Página web
 * [x] Sitio web
 * [x] Aplicación web
 * [x] Operador AND
