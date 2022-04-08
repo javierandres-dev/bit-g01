@@ -20,7 +20,7 @@
 ### Importante
 Regreso a clase próximo martes 19 de abril de 2022:
 * Estar al día con los contenidos de la UNIDAD1, UNIDAD2 y UNIDAD3
-* Muy importanter verificar que tenga instalado en su PC local:
+* Verificar que tenga instalado en su PC:
   - Postman
   - NodeJS
   - MongoDB
