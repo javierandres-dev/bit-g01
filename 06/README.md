@@ -22,4 +22,4 @@
 * [JavaScript - mdn web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - - -
 ## Software Developer
-[Javier Andrés Garzón Patarroyo](https://javierandres.dev)
+[Javier Andrés Garzón Patarroyo](https://javierandresgp.com)

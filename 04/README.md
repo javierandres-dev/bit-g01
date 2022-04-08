@@ -16,4 +16,4 @@ dentro crear una página web (temática libre) con estilos, íconos e imágenes.
 * [imágenes](https://unsplash.com/)
 - - -
 ## Software Developer
-[Javier Andrés Garzón Patarroyo](https://javierandres.dev)
+[Javier Andrés Garzón Patarroyo](https://javierandresgp.com)

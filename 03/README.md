@@ -28,4 +28,4 @@ uno HTML y otro CSS.
 * [W3C CSS](https://www.w3.org/Style/CSS/)
 - - -
 ## Software Developer
-[Javier Andrés Garzón Patarroyo](https://javierandres.dev)
+[Javier Andrés Garzón Patarroyo](https://javierandresgp.com)

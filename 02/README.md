@@ -30,4 +30,4 @@ y dentro crear una página web, temática libre, solo HTML.
 * [W3C HTML5 reference](https://dev.w3.org/html5/html-author/)
 - - -
 ## Software Developer
-[Javier Andrés Garzón Patarroyo](https://javierandres.dev)
+[Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
