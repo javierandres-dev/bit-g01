@@ -24,6 +24,7 @@ Regreso a clase próximo martes 19 de abril de 2022:
   - Postman
   - NodeJS
   - MongoDB
+
 Estar al día con los tres (3) proyectos calificables:
 1. Crear un repositorio en GitHub llamado "bit-iberoamericana-desarrollo-web-full-stack", por favor dele ese nombre, tal como está escrito entre las comillas, debe contener archivo "README.md" con un título, una descripción y su nombre.  
 Compartirme por Discord la url.
