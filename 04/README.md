@@ -6,8 +6,8 @@
 * [x] Repaso GitHub
 * [x] Repaso Html
 * [x] Repaso Css
-### Prácticas
-* [x] Crear un directorio dentro del repositorio de GitHub con el nombre "03", 
+### Ejercicios propuestos para prácticar
+* Crear un directorio dentro del repositorio de GitHub con el nombre "03", 
 dentro crear una página web (temática libre) con estilos, íconos e imágenes.
 ### Recursos
 * [html](https://htmlreference.io/)

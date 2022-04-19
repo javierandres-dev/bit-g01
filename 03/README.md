@@ -20,8 +20,8 @@
 * [x] Valor
 * [x] Indentación
 * [x] Comentarios
-### Prácticas
-* [x] Crear un directorio dentro del repositorio de GitHub con el nombre "02", 
+### Ejercicios propuestos para prácticar
+* Crear un directorio dentro del repositorio de GitHub con el nombre "02", 
 dentro crear una página web con estilos, temática libre, deben ser 2 archivos 
 uno HTML y otro CSS.
 ### Recursos

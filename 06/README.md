@@ -16,8 +16,8 @@
 * [x] DOM métodos
 * [x] DOM eventos
 * [x] Manipulación del DOM
-### Prácticas
-* [x] Replicar el ejercicio del contador, cambiar estilos.
+### Ejercicios propuestos para prácticar
+* Replicar el ejercicio del contador, cambiar estilos.
 ### Recursos
 * [JavaScript - mdn web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - - -

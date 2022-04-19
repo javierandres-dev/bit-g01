@@ -6,8 +6,8 @@
 * [x] Bootstrap
 * [x] Uso básico de Bootstrap
 * [x] Agregar funcionalidad JS a ejemplo básico de Bootstrap
-### Prácticas
-* [x] Crear una página web o un sitio web con Bootstrap, temática libre
+### Ejercicios propuestos para prácticar
+* Crear una página web o un sitio web con Bootstrap, temática libre
 ### Recursos
 * [Bootstrap](https://getbootstrap.com/)
 - - -

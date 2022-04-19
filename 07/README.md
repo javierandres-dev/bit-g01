@@ -7,8 +7,8 @@
 * [x] Aplicación web
 * [x] Operador AND
 * [x] Operador OR
-### Prácticas
-* [x] Replicar el ejercicio "Puede votar", cambiar estilos, agregar funcionalidades.
+### Ejercicios propuestos para prácticar
+* Replicar el ejercicio "Puede votar", cambiar estilos, agregar funcionalidades.
 ### Recursos
 * [JavaScript - mdn web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - - -

@@ -7,7 +7,7 @@
   - [x] Grid
   - [x] Row
   - [x] Columns
-### Prácticas
+### Ejercicios propuestos para prácticar
 * Crear un sitio web con bootstrap, subirlo a Netlify y presentarlo en máximo 3 minutos
 ### Recursos
 * [Bootstrap](https://getbootstrap.com/)

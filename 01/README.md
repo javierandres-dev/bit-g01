@@ -22,14 +22,14 @@
 * [x] Hosting de control de versiones
 * [x] Repositorio
 * [x] Importancia del archivo README.md en un repositorio
-### Prácticas
-* [x] Creación de cuenta en GitHub
-* [x] Instalación de Visual Studio Code
-* [x] Instalación de Git
-* [x] Creación de primer repositorio
-* [x] Comandos y uso básico de git
-* [x] Prueba de sincronia entre Git - GitHub
-* [x] Crear repositorio: "bit-iberoamericana-desarrollo-web-full-stack"
+### Ejercicios propuestos para prácticar
+* Creación de cuenta en GitHub
+* Crear repositorio en GitHub: "bit-iberoamericana-desarrollo-web-full-stack"
+* Instalación de Visual Studio Code
+* Instalación de Git
+* Clonar repositorio: "bit-iberoamericana-desarrollo-web-full-stack"
+* Comandos y uso básico de git
+* Prueba de sincronia entre Git - GitHub
 ### Recursos
 * [Git documentation](https://git-scm.com/doc)
 * [GitHub documentation](https://docs.github.com/)
