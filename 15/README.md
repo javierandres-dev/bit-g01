@@ -1,23 +1,21 @@
-# :octocat: bit-course-full_stack_01/14
+# :octocat: bit-course-full_stack_01/15
 - - -
-## Clase 2022/04/21
+## Clase 2022/04/26
 ### Términos y conceptos
-* [x] URL
-* [x] Port
-* [x] Router
-* [x] Request
-* [x] Response
-* [x] JSON
-* [x] CRUD
-* [x] Schema
+* [x] Vanilla
+* [x] Framework
+* [x] Backend
+* [x] Frontend
+* [x] Client - Server
+* [x] API
+* [x] CORS
+* [x] DOM
 ### Recursos
-* [NodeJS](https://nodejs.org/en/)
-* [ExpressJS](https://expressjs.com/)
-* [MongoDB](https://www.mongodb.com/)
-* [Postman](https://www.postman.com/)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ### Ejercicios propuestos para prácticar
 * Replicar lo visto en clase, API Restful conectada a base de datos
 * Hacer solicitudes con Postman
+* Crear frontend para consumir backend
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
