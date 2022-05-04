@@ -5,7 +5,8 @@
 Nombre del curso: Bootcamp desarrollo web full stack virtual asistido  
 Fecha inicio: 2022/02/28  
 Fecha finalización: 2022/06/10  
-[mrooms](https://iberoamericana.mrooms.net/login)
+[mrooms](https://iberoamericana.mrooms.net/login)  
+[Aula virtual](https://aulavirtual.ibero.edu.co/)
 ### Directorios
 * :open_file_folder: /01 - Clase 2022/02/28
 * :open_file_folder: /02 - Clase 2022/03/03
@@ -23,6 +24,7 @@ Fecha finalización: 2022/06/10
 * :open_file_folder: /14 - Clase 2022/04/21
 * :open_file_folder: /15 - Clase 2022/04/26
 * :open_file_folder: /16 - Clase 2022/04/28
+* :open_file_folder: /17 - Clase 2022/05/03
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
