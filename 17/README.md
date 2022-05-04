@@ -24,7 +24,7 @@ Tema libre
 2. En su cuenta de GitHub crear un nuevo repositorio para el proyecto a entregar
   * Puede crear un repositorio para el frontend y otro diferente para el backend
   * Puede crear un solo repositorio para frontend y backend siempre y cuando 
-  esten en diferentes directorios.
+  estén en diferentes directorios.
 3. Cada repositorio debe tener un archivo README que contenga:
   * Titulo
   * Descripción
