@@ -25,6 +25,7 @@ Fecha finalización: 2022/06/10
 * :open_file_folder: /15 - Clase 2022/04/26
 * :open_file_folder: /16 - Clase 2022/04/28
 * :open_file_folder: /17 - Clase 2022/05/03
+* :open_file_folder: /18 - Clase 2022/05/05
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)

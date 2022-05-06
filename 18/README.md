@@ -1,20 +1,15 @@
-# :octocat: bit-course-full_stack_01/17
+# :octocat: bit-course-full_stack_01/18
 - - -
-## Clase 2022/05/03
+## Clase 2022/05/05
 ### Términos y conceptos
-* [x] Archivo README
-* [x] TypeScript
-* [x] JavaScript - TypeScript
-* [x] Tipado
-* [x] Tipos de datos
-* [x] Objetos
-* [x] Retorno
-* [X] Operador ternario
+* [x] Posicionamiento CSS
+* [x] SEO
 ### Recursos
-* [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* [TypeScript](https://www.typescriptlang.org/)
+* [CSS Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+* [Search Engine Optimization (SEO) Starter Guide](https://developers.google.com/search/docs/beginner/seo-starter-guide)
 ### Ejercicios propuestos para prácticar
 * Replicar lo visto en clase
+* Optimizar sus documentos HTML acerca de SEO
 ### Proyecto calificable
 #### Requerimientos
 Tema libre  
