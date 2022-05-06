@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .parent {
+        background-color: blue;
+        color: red;
+        height: 150vh;
+      }
+      .child {
+        width: 100px;
+        height: 100px;
+      }
+      .one {
+        background-color: lightpink;
+        position: sticky;
+        top: 0;
+      }
+      .two {
+        background-color: lightsalmon;
+        position: fixed;
+        top: 0;
+        right: 0;
+      }
+      .three {
+        background-color: yellow;
+        position: absolute;
+        top: 200px;
+        left: 200px;
+      }
+      .four {
+        background-color: yellowgreen;
+        position: absolute;
+        top: 250px;
+        left: 250px;
+        z-index: 10;
+      }
+      .five {
+        background-color: greenyellow;
+        position: absolute;
+        top: 300px;
+        left: 300px;
+      }
+    </style>
+    <title>Pocicionamiento CSS</title>
+  </head>
+  <body>
+    <h1>Pocicionamiento CSS</h1>
+    <div class="parent">
+      <div class="child one">1</div>
+      <div class="child two">2</div>
+      <div class="child three">3</div>
+      <div class="child four">4</div>
+      <div class="child five">5</div>
+    </div>
+  </body>
+</html>
