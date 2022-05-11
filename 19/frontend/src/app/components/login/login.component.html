@@ -1,0 +1,27 @@
+<main class="container">
+  <h1 class="text-center my-5">Iniciar sesión</h1>
+  <form class="my-5" (ngSubmit)="login()">
+    <div class="mb-3">
+      <label for="email" class="form-label">Nombre de usuario</label>
+      <input
+        type="email"
+        class="form-control"
+        id="email"
+        name="email"
+        aria-describedby="emailHelp"
+        [(ngModel)]="user.username"
+      />
+    </div>
+    <div class="mb-3">
+      <label for="password" class="form-label">Contraseña</label>
+      <input
+        type="password"
+        class="form-control"
+        id="password"
+        name="password"
+        [(ngModel)]="user.password"
+      />
+    </div>
+    <button type="submit" class="btn btn-primary">Entrar</button>
+  </form>
+</main>
