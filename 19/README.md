@@ -13,6 +13,7 @@
 ### Ejercicios propuestos para prácticar
 * Replicar lo visto en clase implementando ideas propias y/o diferentes
 ### Recursos
+* [NodeJS](https://nodejs.org/en/)
 * [Angular](https://angular.io/)
 - - -
 ## Software Developer
