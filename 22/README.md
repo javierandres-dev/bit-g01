@@ -1,23 +1,15 @@
-# :octocat: bit-course-full_stack_01/21
+# :octocat: bit-course-full_stack_01/22
 - - -
-## Clase 2022/05/17
+## Clase 2022/05/19
 ### Términos y conceptos
-* [x] Frontend con Angular
-* [x] Backend con NodeJS
-* [x] Front consumiendo Back
-* [x] Registrar usuario
-* [x] Iniciar sesión
-* [x] LocalStorage / SessionStorage
-* [x] Token
-* [x] Componentes Angular
-* [x] Servicios Angular
-* [x] Clase
-* [x] Instancia de clase
-* [x] Router Angular
-* [x] HttpClient Angular
-* [x] this
+* [x] Variables de entorno Angular
+* [x] Guard Angular
+* [x] Protección de rutas Angular
+* [x] Renderizado condicional Angular
+* [x] Microservicios
 ### Directorios
 * :open_file_folder: /frontend
+* :open_file_folder: /todosBackend
 * :open_file_folder: /usersBackend
 ### Ejercicios propuestos para prácticar
 * Replicar lo visto en clase implementando ideas propias y/o diferentes
