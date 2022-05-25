@@ -1,0 +1,32 @@
+<main class="container">
+  <h1 class="text-center my-5">Mi app de tareas</h1>
+  <h2>Contenido privado - acceso solo a usuarios con sesión válida</h2>
+  <form (ngSubmit)="newTodo()">
+    <div class="mb-3">
+      <label for="name" class="form-label">Nombre de la tarea</label>
+      <input
+        type="text"
+        class="form-control"
+        id="name"
+        name="name"
+        aria-describedby="nameHelp"
+        [(ngModel)]="todo.name"
+      />
+    </div>
+    <button type="submit" class="btn btn-primary">Crear tarea</button>
+  </form>
+  <ul class="list-group mt-5">
+    <li
+      class="list-group-item d-flex justify-content-between align-items-center"
+      *ngFor="let todo of todos"
+    >
+      <div>{{ todo.name }}</div>
+      <div>
+        <label class="px-5"
+          ><input type="checkbox" class="form-check-input" />Completada</label
+        >
+        <button type="button" class="btn btn-danger">Eliminar</button>
+      </div>
+    </li>
+  </ul>
+</main>
