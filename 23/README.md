@@ -1,12 +1,27 @@
-# :octocat: bit-course-full_stack_01/22
+# :octocat: bit-course-full_stack_01/23
 - - -
-## Clase 2022/05/19
+## Clase 2022/05/24
 ### Términos y conceptos
-* [x] Variables de entorno Angular
-* [x] Guard Angular
-* [x] Protección de rutas Angular
-* [x] Renderizado condicional Angular
-* [x] Microservicios
+* [x] Requerimientos proyecto final
+  * Temática libre
+  * Presentación diapositivas
+    - Mockups
+    - Descripción del proyecto
+    - URL del código fuente (GitHub)
+    - Autor(es) del proyecto
+  * Repositorio del proyecto
+    - URL
+    * Archivo README.md
+      - Título
+      - Descripción
+      - Instrucciones
+      - Autor(es)
+  * Usabilidad
+    - Contenido público
+    - Registro
+    - Inicio de sesión
+    - Contenido privado
+    - Operaciones CRUD
 ### Directorios
 * :open_file_folder: /frontend
 * :open_file_folder: /todosBackend
