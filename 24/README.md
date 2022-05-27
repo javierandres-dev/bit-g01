@@ -1,8 +1,11 @@
-# :octocat: bit-course-full_stack_01/23
+# :octocat: bit-course-full_stack_01/24
 - - -
-## Clase 2022/05/24
-### Términos y conceptos
-* [x] Requerimientos proyecto final
+## Clase 2022/05/26
+### Directorios
+* :open_file_folder: /frontend
+* :open_file_folder: /todosBackend
+* :open_file_folder: /usersBackend
+### Requerimientos proyecto final
   * Temática libre
   * Presentación diapositivas
     - Mockups
@@ -22,17 +25,12 @@
     - Inicio de sesión
     - Contenido privado
     - Operaciones CRUD
-### Directorios
-* :open_file_folder: /frontend
-* :open_file_folder: /todosBackend
-* :open_file_folder: /usersBackend
-### Ejercicios propuestos para prácticar
-* Replicar lo visto en clase implementando ideas propias y/o diferentes
 ### Recursos
 * [MongoDB](https://www.mongodb.com/)
 * [Expressjs](https://expressjs.com/)
 * [Angular](https://angular.io/)
 * [NodeJS](https://nodejs.org/en/)
+* [SweetAlert2](https://sweetalert2.github.io/)
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
